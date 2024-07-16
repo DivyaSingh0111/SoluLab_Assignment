@@ -35,7 +35,7 @@ Certainly! Here are a few key pointers you can include in the README file for yo
 
 #### Key Features:
 - **Data Exploration:** Insights into employee data, including demographics, job-related factors, and attrition rates.
-- **Models:** Overview of models like Logistic Regression, Random Forest, and SVM used for prediction.
+- **Models:** Overview of models like Logistic Regression, Random Forest, and Decision Tree used for prediction.
 - **Evaluation:** Metrics used to evaluate model performance, such as accuracy, precision, and recall.
 - **Interpretation:** Understanding key factors influencing employee attrition based on model interpretations.
 
